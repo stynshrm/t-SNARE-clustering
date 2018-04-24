@@ -10,9 +10,9 @@ Just copy the `scripts/` and `martini/` folders to the working directory and sou
 
 ### 1. Modeling Protein
 
-![Screenshot of the GUI: protein modeling tool](Selection_1.png)
-
-
+<p align="center">
+  <img src="selection_1.png" width="350"/>
+</p>
 ### 2.Building the Asymmetric Lipid Membrane and inserting protein
 
 ![Screenshot of the GUI: asymmetric membrane and protein builder](Selection_2.png)
