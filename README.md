@@ -8,11 +8,11 @@ Just copy the `scripts` and `martini` folders to the working directory and sourc
 
 ## Tools
 
-### Modeling the Protein
+### 1. Modeling Protein
 
 ![Screenshot of the GUI: protein modeling tool](Selection_1.png)
 
 
-### Building the Lipid Membrane and inserting protein
+### 2.Building the Asymmetric Lipid Membrane and inserting protein
 
 ![Screenshot of the GUI: asymmetric membrane and protein builder](Selection_2.png)
