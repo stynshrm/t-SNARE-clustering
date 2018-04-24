@@ -11,7 +11,7 @@ Just copy the `scripts/` and `martini/` folders to the working directory and sou
 ### 1. Modeling Protein
 
 <p align="center">
-  <img src="selection_1.png" width="350"/>
+  <img src="Selection_1.png" width="350"/>
 </p>
 ### 2.Building the Asymmetric Lipid Membrane and inserting protein
 
