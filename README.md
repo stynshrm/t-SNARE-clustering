@@ -3,13 +3,15 @@ These scripts are written to provide a GUI on top of Visual Molecular Dynamics (
 
 ## Setup & Usage
 Just copy the `scripts` and `martini` folders to the working directory and source `scripts/tsnare.tcl` as:
-`vmd -e tsnare.tcl`
+
+`vmd -e scripts/tsnare.tcl`
 
 ## Tools
 
 ### Modeling the Protein
 
 ![Screenshot of the GUI: protein modeling tool](Selection_1.png)
+
 
 ### Building the Lipid Membrane and inserting protein
 
