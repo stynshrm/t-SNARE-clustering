@@ -431,7 +431,7 @@ proc push_cys {} {
 		$sel_cys set resname CYP
 
 		$sel_cys writepdb tmp_00.pdb
-		eval exec echo 1 1 | g_confrms -one -f1 tmp_00.pdb  -f2 scripts/cyp-AT.pdb  -name -o cysfit.pdb > /dev/null 2>cyp.txt
+		eval exec echo 1 1 | gmx confrms -one -f1 tmp_00.pdb  -f2 scripts/cyp-AT.pdb  -name -o cysfit.pdb > /dev/null 2>cyp.txt
 		mol load pdb cysfit.pdb
 		mol delrep 0 top
 		set plm [atomselect top "all and not name N CA CB C O SG"]
